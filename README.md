@@ -1,3 +1,3 @@
 # AI Revolution
 
-Here we are going to make a revolution in AI field in the world.
+Here we are going to create a revolution in the field of artificial intelligence in the world.
